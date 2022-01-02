@@ -42,7 +42,7 @@ There are three ways to consume the notebooks in this repository:
 
 1. View and interact with the notebooks on [binder](https://mybinder.org/) by clicking on the button below:
 
-    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fod/fundamentals-data-analysis/HEAD)
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fod/machine-learning-statistics/HEAD)
 
     This will give access to the entire repository via a [JupyterLab](https://jupyter.org/) session. The code in the notebooks can be changed and executed or new notebooks can be started to experiment with the data, which is, of course, also accessible from the binder session.
 
